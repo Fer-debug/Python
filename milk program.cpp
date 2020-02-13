@@ -34,7 +34,7 @@ const double profit_per_carton = 0.27;
 int main()
 {
 	double milk_produced, total_cost_of_milk, total_profit;
-	int cartons_needed;
+	
 	cout << "Enter number of milk produced: ";
 	cin >> milk_produced;
 
